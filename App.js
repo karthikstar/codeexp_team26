@@ -23,7 +23,7 @@ export default function App() {
             } else if (route.name === "Calender"){
               iconName = "list";
             } else if (route.name === "Discounts"){
-              iconName = "list";
+              iconName = "percent";
             } else if (route.name === "DistanceTracker"){
               iconName = "list";
             }

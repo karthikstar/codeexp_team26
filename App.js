@@ -3,16 +3,16 @@ import { StyleSheet, Text, View } from 'react-native';
 import { NavigationContainer } from '@react-navigation/native';
 import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
 import HomeScreen from './Screens/HomeScreen';
-import CalenderScreen from './Screens/CalenderScreen';
 import DiscountsScreen from './Screens/DiscountsScreen';
 import DistanceTrackerScreen from './Screens/DistanceTrackerScreen';
 const Tab = createBottomTabNavigator();
 import { FontAwesome } from "@expo/vector-icons";
+import Products from './components/Products';
 
 
 export default function App() {
   return (
-    <NavigationContainer>
+    <NavigationContainer >
       <Tab.Navigator
         screenOptions={({ route }) => ({
           tabBarIcon: ({ focused, color, size }) => {
@@ -20,8 +20,8 @@ export default function App() {
             // Set the Icon based on which route it is (name of the tab)
             if (route.name === 'Home'){
               iconName = "home";
-            } else if (route.name === "Calender"){
-              iconName = "list";
+            } else if (route.name === "EMart"){
+              iconName = "shopping-basket";
             } else if (route.name === "Discounts"){
               iconName = "percent";
             } else if (route.name === "DistanceTracker"){
@@ -36,7 +36,7 @@ export default function App() {
         })}
       >
         <Tab.Screen name="Home" component={HomeScreen} />
-        <Tab.Screen name="Calender" component={CalenderScreen} />
+        <Tab.Screen name="EMart" component={Products} />
         <Tab.Screen name="Discounts" component={DiscountsScreen} />
         <Tab.Screen name="DistanceTracker" component={DistanceTrackerScreen} />
 

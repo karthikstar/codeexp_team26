@@ -24,9 +24,10 @@ export default function App() {
               iconName = "shopping-basket";
             } else if (route.name === "Discounts"){
               iconName = "percent";
-            } else if (route.name === "DistanceTracker"){
-              iconName = "list";
-            }
+            } 
+            // else if (route.name === "DistanceTracker"){
+            //   iconName = "list";
+            // }
 
             // You can return any component that you like here!
             return <FontAwesome name={iconName} size={size} color={color} />;
@@ -38,7 +39,7 @@ export default function App() {
         <Tab.Screen name="Home" component={HomeScreen} />
         <Tab.Screen name="EMart" component={Products} />
         <Tab.Screen name="Discounts" component={DiscountsScreen} />
-        <Tab.Screen name="DistanceTracker" component={DistanceTrackerScreen} />
+        {/* <Tab.Screen name="DistanceTracker" component={DistanceTrackerScreen} /> */}
 
       </Tab.Navigator>
     </NavigationContainer>

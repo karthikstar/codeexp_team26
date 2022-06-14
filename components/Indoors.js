@@ -34,13 +34,16 @@ return (
                           showsHorizontalScrollIndicator={false}
                       >
                           <Category imageUri={require('../assets/pullups.png')}
+                            infoURI = "https://www.sweat.com/blogs/fitness/how-to-do-pull-ups"
                             name="Pull-Up"
                           />
                           <Category imageUri={require('../assets/pushups.png')}
-                              name="Push-Up"
+                            infoURI= "https://www.verywellfit.com/the-push-up-exercise-3120574"
+                            name="Push-Up"
                           />
-                          <Category imageUri={require('../assets/running.png')}
-                              name="Running"
+                          <Category imageUri={require('../assets/situp.jpeg')}
+                            infoURI="https://www.puregym.com/exercises/abs/sit-up"
+                              name="Sit Up"
                           />
                       </ScrollView>
                   </View>

@@ -23,3 +23,9 @@ My NS Buddy aims to be the one-stop lifestyle app for NSMen and NSFs, to bring a
     ```
    
 
+## Contributors
+BCF1
+> Elangovan Karthikeyan [@karthikstar](https://github.com/karthikstar)<br>
+> Denise Tay [@denisetay8](https://github.com/denisetay8)<br>
+> Amabel Lim Hui Xin [@amabellim](https://github.com/amabellim)<br>
+> Esther Teo Gek Wat [@estherteo](https://github.com/estherteo)

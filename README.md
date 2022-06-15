@@ -1,7 +1,6 @@
-# My NS Buddy
+# My NS Buddy - By Team 26 Deniserocks
 
 ## Information
-This is a CODE_EXP SUBMISSION by Team 26 Denise Rocks.
 My NS Buddy aims to be the one-stop lifestyle app for NSMen and NSFs, to bring about greater convenience and flexibiltiy to their lives while keeping their fitness on track. 
 
 # How to run the file

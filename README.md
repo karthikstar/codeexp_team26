@@ -2,10 +2,9 @@
 
 ## Information
 This is a CODE_EXP SUBMISSION by Team 26 Denise Rocks.
+My NS Buddy aims to be the one-stop lifestyle app for NSMen and NSFs, to bring about greater convenience and flexibiltiy to their lives while keeping their fitness on track. 
 
 # How to run the file
-
-![home_page](https://www.dropbox.com/s/ympf14e5dscv97i/landingpage.png?dl=0)
 
 1. Download source
    ```bash 

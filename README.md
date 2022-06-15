@@ -3,6 +3,8 @@
 ## Information
 My NS Buddy aims to be the one-stop lifestyle app for NSMen and NSFs, to bring about greater convenience and flexibiltiy to their lives while keeping their fitness on track. 
 
+<img src = "homeimg2.png" width = "300" height = "600" />
+
 # How to run the file
 
 1. Download source

@@ -1,4 +1,4 @@
-# My NS Buddy - By Team 26 Deniserocks
+# My NS Buddy - By Cat 1 Team 26 Deniserocks
 
 ## Information
 My NS Buddy aims to be the one-stop lifestyle app for NSMen and NSFs, to bring about greater convenience and flexibiltiy to their lives while keeping their fitness on track. 

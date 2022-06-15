@@ -5,6 +5,8 @@ This is a CODE_EXP SUBMISSION by Team 26 Denise Rocks.
 
 # How to run the file
 
+![home_page](https://www.dropbox.com/s/ympf14e5dscv97i/landingpage.png?dl=0)
+
 1. Download source
    ```bash 
    $ git clone https://github.com/karthikstar/codeexp_team26.git
